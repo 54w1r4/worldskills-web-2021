@@ -1,0 +1,28 @@
+#video-player-div {
+   position: absolute;
+    width: 660px;
+    height: 415px;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+#video-player-div img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 2;
+}
+
+#video-player {
+    display: inline;
+}
+
+#action-png {
+    display: inline-block;
+}
