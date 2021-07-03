@@ -1,0 +1,22 @@
+{
+  "name": "SimpleBlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwardSwalker/SimpleBlog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwardSwalker/SimpleBlog/issues"
+  },
+  "homepage": "https://github.com/EdwardSwalker/SimpleBlog#readme"
+}
