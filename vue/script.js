@@ -6,10 +6,16 @@ new Vue({
         html: '',
         x: 0,
         y: 0,
+        firstName: '',
+        lastName: '',
     }, methods: {
         capture(event) {
             this.x = event.clientX
             this.y = event.clientY
         }
+    }, computed: {
+      fullName() {
+          return this.firstName + ' ' + this.lastName
+      }
     },
 })

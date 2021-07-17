@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f9282b7-b523-43a5-a793-2fd36ee49df4" name="Default Changelist" comment="initialize">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
+    <list default="true" id="9f9282b7-b523-43a5-a793-2fd36ee49df4" name="Default Changelist" comment="vue 2.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vue/style.css" afterDir="false" />
     </list>
     <list id="84492bed-55c5-4156-8c0b-3c9fd5fd6c49" name="initialize" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +80,7 @@
       <workItem from="1620459777566" duration="659000" />
       <workItem from="1626504883014" duration="30000" />
       <workItem from="1626504933102" duration="21000" />
-      <workItem from="1626504969241" duration="2126000" />
+      <workItem from="1626504969241" duration="2713000" />
     </task>
     <task id="LOCAL-00001" summary="initialize">
       <created>1620460135796</created>
@@ -106,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620461126735</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="vue 2.0">
+      <created>1626507150870</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626507150870</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +131,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;Revert &quot;Initial commit&quot;&quot;&#10;&#10;This reverts commit 8792f2da" />
     <MESSAGE value="initialize" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize" />
+    <MESSAGE value="vue 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="vue 2.0" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

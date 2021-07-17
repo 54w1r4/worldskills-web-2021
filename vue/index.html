@@ -23,15 +23,24 @@
     <textarea v-model="html"></textarea>
     <div v-html="html">{{ html }}</div>
 
-    <div class="box" @mousemove="capture">HOVER ME</div>
+    <div class="box" @mousemove="capture">
+        HOVER ME
+        <div class="blocked" @mousemove.stop></div>
+    </div>
 
     <div class="coordinates">
         {{ x }}, {{ y }}
     </div>
 
+    <input type="text" placeholder="First Name" v-model="firstName">
+    <input type="text" placeholder="Last Name" v-model="lastName">
+
+    <div>Hello, {{ fullName }}</div>
+
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
 <script src="script.js"></script>
+
 </body>
 </html>
