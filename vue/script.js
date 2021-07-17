@@ -8,6 +8,8 @@ new Vue({
         y: 0,
         firstName: '',
         lastName: '',
+        active: 1,
+        fruits: ['apple', 'banana', 'orange', 'peach', 'lemon']
     }, methods: {
         capture(event) {
             this.x = event.clientX

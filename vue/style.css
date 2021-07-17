@@ -2,6 +2,14 @@
     margin: 15px;
 }
 
+body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: row;
+}
+
 input, button, p, div, textarea {
     font-size: 36px;
 }
@@ -36,4 +44,15 @@ img, textarea {
 
 .coordinates {
     font-size: 36px;
+}
+
+.centerBox {
+    width: 120px;
+    height: 120px;
+    background-color: #eee;
+
+}
+
+.blue {
+    background-color: blue;
 }

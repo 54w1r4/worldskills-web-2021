@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f9282b7-b523-43a5-a793-2fd36ee49df4" name="Default Changelist" comment="vue 2.0">
+    <list default="true" id="9f9282b7-b523-43a5-a793-2fd36ee49df4" name="Default Changelist" comment="computed vue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/script.js" afterDir="false" />
@@ -80,7 +80,7 @@
       <workItem from="1620459777566" duration="659000" />
       <workItem from="1626504883014" duration="30000" />
       <workItem from="1626504933102" duration="21000" />
-      <workItem from="1626504969241" duration="2713000" />
+      <workItem from="1626504969241" duration="3723000" />
     </task>
     <task id="LOCAL-00001" summary="initialize">
       <created>1620460135796</created>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626507150870</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="computed vue">
+      <created>1626507739871</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626507739871</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +139,8 @@
     <MESSAGE value="Revert &quot;Revert &quot;Initial commit&quot;&quot;&#10;&#10;This reverts commit 8792f2da" />
     <MESSAGE value="initialize" />
     <MESSAGE value="vue 2.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="vue 2.0" />
+    <MESSAGE value="computed vue" />
+    <option name="LAST_COMMIT_MESSAGE" value="computed vue" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
