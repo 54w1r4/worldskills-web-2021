@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f9282b7-b523-43a5-a793-2fd36ee49df4" name="Default Changelist" comment="computed vue">
+    <list default="true" id="9f9282b7-b523-43a5-a793-2fd36ee49df4" name="Default Changelist" comment="v-for">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vue/style.css" afterDir="false" />
     </list>
     <list id="84492bed-55c5-4156-8c0b-3c9fd5fd6c49" name="initialize" comment="" />
     <option name="SHOW_DIALOG" value="false" />
